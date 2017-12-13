@@ -1,4 +1,1 @@
-var playlist = {
-  artist : song,
-
-};
+var playlist = new Object{key: "1"};
